@@ -1,0 +1,1181 @@
+{
+  "totalUrls": 260,
+  "categories": {
+    "homepage": [
+      {
+        "url": "\r\n            https://www.numeralhq.com\r\n        ",
+        "category": "homepage"
+      }
+    ],
+    "main-page": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/about\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/careers\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/case-studies\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/pricing\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/demo\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/reviews\r\n        ",
+        "category": "main-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/partner-program\r\n        ",
+        "category": "main-page"
+      }
+    ],
+    "other": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/avalara-alternative\r\n        ",
+        "category": "other"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/taxjar-alternative\r\n        ",
+        "category": "other"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog\r\n        ",
+        "category": "other"
+      }
+    ],
+    "legal": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/legal/guarantee\r\n        ",
+        "category": "legal"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/legal/privacy-policy\r\n        ",
+        "category": "legal"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/legal/referral-terms\r\n        ",
+        "category": "legal"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/legal/terms-of-service\r\n        ",
+        "category": "legal"
+      }
+    ],
+    "blog": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/alabama-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/alaska-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/anrok-alternatives\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/anrok-vs-taxjar\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/arizona-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/arkansas-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/austria-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/avalara-vs-anrok\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/avalara-vs-vertex\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/best-sales-tax-apps-for-shopify\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/california-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/collect-sales-tax-when-selling-online\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/connecticut-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/delaware-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/denmark-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/do-you-charge-sales-tax-on-items-shipped-out-of-state\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/does-shopify-collect-and-remit-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/dropshipping-and-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/ecommerce-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/ecommerce-sales-tax-software\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/economic-nexus\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/estonia-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/file-a-sales-tax-return-in-iowa\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/file-a-sales-tax-return-in-michigan\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/file-sales-tax-in-maryland\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/file-sales-tax-in-texas\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/florida-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/georgia-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/hawaii-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/home-rule-states-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/how-to-determine-nexus-with-every-state\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/how-to-speak-to-an-actual-human-about-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/idaho-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/illinois-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/import-one-stop-shop-ioss\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/indiana-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/iowa-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/ireland-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/is-shopify-a-marketplace-facilitator\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/kansas-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/kentucky-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/latvia-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/louisiana-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/luxembourg-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/maine-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/malta-vat-rates-and-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/managing-sales-tax-for-digital-goods-on-shopify\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/marketplace-facilitator\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/maryland-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/massachusetts-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/michigan-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/minnesota-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/mississippi-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/missouri-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/montana-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/nebraska-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/new-hampshire-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/new-jersey-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/new-mexico-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/new-york-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/north-carolina-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/north-dakota-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/ohio-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/oklahoma-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/oregon-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/pennsylvania-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/physical-nexus\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/remit-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/resale-certificates\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/rhode-island-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/ruby-card\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-alabama\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-alaska\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-arizona\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-arkansas\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-california\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-chicago\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-colorado\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-connecticut\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-district-of-columbia\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-florida\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-georgia\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-hawaii\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-idaho\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-illinois\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-indiana\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-iowa\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-kansas\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-kentucky\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-louisiana\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-maine\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-maryland\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-massachusetts\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-michigan\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-minnesota\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-mississippi\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-missouri\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-nebraska\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-nevada\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-new-jersey\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-new-mexico\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-new-york\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-north-carolina\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-north-dakota\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-ohio\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-oklahoma\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-pennsylvania\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-rhode-island\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-south-carolina\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-south-dakota\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-tennessee\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-texas\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-utah\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-vermont\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-virginia\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-washington\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-west-virginia\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-wisconsin\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/saas-sales-tax-wyoming\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-amnesty-programs\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-audit\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-compliance-outsourcing-for-startups\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-compliance-when-selling-into-canada\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-due-dates\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-exemption-certificates\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-on-digital-goods\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-on-saas\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-on-vitamins-and-supplements\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-software-for-accountants\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/sales-tax-vs-vat\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/set-up-sales-tax-on-shopify\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/south-carolina-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/south-dakota-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/south-dakota-v-wayfair\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/states-most-likely-to-conduct-a-sales-tax-audit\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/states-that-dont-accept-out-of-state-resale-certificates\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/tariffs-ecommerce-brands-2025\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/taxjar-vs-avalara\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/tennessee-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/texas-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/trailing-nexus\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/utah-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/vat-compliance\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/vermont-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/virginia-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/voluntary-disclosure-agreement\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/washington-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/west-virginia-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/what-happens-if-you-dont-collect-or-remit-sales-tax\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/what-is-a-tax-engine\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/when-did-sales-tax-start\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/wisconsin-sales-tax-guide\r\n        ",
+        "category": "blog"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/blog/wyoming-sales-tax-guide\r\n        ",
+        "category": "blog"
+      }
+    ],
+    "customer-story": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/4frnt\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/amberjack\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/boomboom\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/bro-glo\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/culprit-underwear\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/doe-beauty\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/explorer\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/fresh-sends\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/immi\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/kitsch\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/luma-nutrition\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/nomad-goods\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/rejuvia\r\n        ",
+        "category": "customer-story"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/customers/the-woobles\r\n        ",
+        "category": "customer-story"
+      }
+    ],
+    "author": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/charles-purdy\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/christy-bieber\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/deb-mukherjee\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/jacob-becker\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/lizzie-davey\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/michael-schulz\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/nate-matherson\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/sam-ross\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/shanna-dawson\r\n        ",
+        "category": "author"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/author/zach-hewke\r\n        ",
+        "category": "author"
+      }
+    ],
+    "product": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/product/api\r\n        ",
+        "category": "product"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/product/exemption-certificate-management\r\n        ",
+        "category": "product"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/product/filing-and-remittance\r\n        ",
+        "category": "product"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/product/nexus-tracking\r\n        ",
+        "category": "product"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/product/registrations\r\n        ",
+        "category": "product"
+      }
+    ],
+    "solution": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/solutions/ecommerce\r\n        ",
+        "category": "solution"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/solutions/saas\r\n        ",
+        "category": "solution"
+      }
+    ],
+    "partner": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/partners/adro\r\n        ",
+        "category": "partner"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/partners/clerky\r\n        ",
+        "category": "partner"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/partners/doola\r\n        ",
+        "category": "partner"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/partners/pilot\r\n        ",
+        "category": "partner"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/partners/puzzle\r\n        ",
+        "category": "partner"
+      }
+    ],
+    "vat-guide": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/australia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/austria\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/belgium\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/canada\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/croatia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/cyprus\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/czech-republic\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/denmark\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/estonia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/finland\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/france\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/germany\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/global\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/greece\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/hungary\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/india\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/indonesia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/ireland\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/italy\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/japan\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/latvia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/lithuania\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/luxembourg\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/malaysia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/malta\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/netherlands\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/new-zealand\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/norway\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/poland\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/portugal\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/romania\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/saudi-arabia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/singapore\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/slovakia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/slovenia\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/south-korea\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/spain\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/sweden\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/switzerland\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/thailand\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/turkey\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/uae\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/uk\r\n        ",
+        "category": "vat-guide"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/vat/vietnam\r\n        ",
+        "category": "vat-guide"
+      }
+    ],
+    "alternative": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/anrok\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/avalara\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/paddle\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/sovos\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/sphere\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/tax-valet\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/taxjar\r\n        ",
+        "category": "alternative"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/alternative/zamp\r\n        ",
+        "category": "alternative"
+      }
+    ],
+    "landing-page": [
+      {
+        "url": "\r\n            https://www.numeralhq.com/ads/ecommerce-sales-tax-software\r\n        ",
+        "category": "landing-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/ads/saas-sales-tax-software\r\n        ",
+        "category": "landing-page"
+      },
+      {
+        "url": "\r\n            https://www.numeralhq.com/ads/sales-tax-software-digital-goods\r\n        ",
+        "category": "landing-page"
+      }
+    ]
+  },
+  "categoryCounts": {
+    "homepage": 1,
+    "main-page": 7,
+    "other": 3,
+    "legal": 4,
+    "blog": 154,
+    "customer-story": 14,
+    "author": 10,
+    "product": 5,
+    "solution": 2,
+    "partner": 5,
+    "vat-guide": 44,
+    "alternative": 8,
+    "landing-page": 3
+  },
+  "highPriorityUrls": [
+    {
+      "url": "\r\n            https://www.numeralhq.com\r\n        ",
+      "category": "homepage"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/about\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/careers\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/case-studies\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/pricing\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/demo\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/reviews\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/partner-program\r\n        ",
+      "category": "main-page"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/product/api\r\n        ",
+      "category": "product"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/product/exemption-certificate-management\r\n        ",
+      "category": "product"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/product/filing-and-remittance\r\n        ",
+      "category": "product"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/product/nexus-tracking\r\n        ",
+      "category": "product"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/product/registrations\r\n        ",
+      "category": "product"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/solutions/ecommerce\r\n        ",
+      "category": "solution"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/solutions/saas\r\n        ",
+      "category": "solution"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/blog/alabama-sales-tax-guide\r\n        ",
+      "category": "blog"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/blog/alaska-sales-tax-guide\r\n        ",
+      "category": "blog"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/blog/anrok-alternatives\r\n        ",
+      "category": "blog"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/blog/anrok-vs-taxjar\r\n        ",
+      "category": "blog"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/blog/arizona-sales-tax-guide\r\n        ",
+      "category": "blog"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/customers/4frnt\r\n        ",
+      "category": "customer-story"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/customers/amberjack\r\n        ",
+      "category": "customer-story"
+    },
+    {
+      "url": "\r\n            https://www.numeralhq.com/customers/boomboom\r\n        ",
+      "category": "customer-story"
+    }
+  ],
+  "analyzedAt": "2025-07-30T16:10:07.264Z"
+}

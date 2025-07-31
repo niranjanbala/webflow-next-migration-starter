@@ -1,0 +1,63 @@
+{
+  "category": "main",
+  "totalPages": 8,
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+      "description": "We fully manage the headaches of sales tax so you can get back to real work. Get started for free today!",
+      "sections": 11,
+      "originalUrl": "\r\n            https://www.numeralhq.com\r\n        "
+    },
+    {
+      "slug": "about",
+      "title": "About us | Numeral",
+      "description": "We built Numeral to be the end-to-end platform for sales tax compliance. Let us take care of sales tax.",
+      "sections": 10,
+      "originalUrl": "\r\n            https://www.numeralhq.com/about\r\n        "
+    },
+    {
+      "slug": "careers",
+      "title": "Careers at Numeral | Join a team of builders",
+      "description": "We are based in San Francisco. We’ve assembled a wonderful team. And we work hard to be the best place you’ve ever worked.",
+      "sections": 9,
+      "originalUrl": "\r\n            https://www.numeralhq.com/careers\r\n        "
+    },
+    {
+      "slug": "case-studies",
+      "title": "Customer Stories | Numeral",
+      "description": "Learn how Numeral helps leading ecommerce and SaaS businesses get compliant, stay compliant, and eliminate mistakes – we guarantee it.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/case-studies\r\n        "
+    },
+    {
+      "slug": "pricing",
+      "title": "Pricing",
+      "description": "We built Numeral to be the easiest way for ecommerce entrepreneurs to handle sales tax.",
+      "sections": 7,
+      "originalUrl": "\r\n            https://www.numeralhq.com/pricing\r\n        "
+    },
+    {
+      "slug": "demo",
+      "title": "Book a demo — Numeral",
+      "description": "Ready to put your sales tax on autopilot? Book a free demo with our team today!",
+      "sections": 3,
+      "originalUrl": "\r\n            https://www.numeralhq.com/demo\r\n        "
+    },
+    {
+      "slug": "reviews",
+      "title": "Numeral Sales Tax Reviews | Their Words, Not Ours",
+      "description": "Growing ecommerce and SaaS businesses trust Numeral for rates, remittance, and everything in between.",
+      "sections": 5,
+      "originalUrl": "\r\n            https://www.numeralhq.com/reviews\r\n        "
+    },
+    {
+      "slug": "partner-program",
+      "title": "Numeral Partner Program",
+      "description": "Not only do we guarantee sales tax compliance for your clients, but a Numeral partnership also comes with a host of benefits.",
+      "sections": 12,
+      "originalUrl": "\r\n            https://www.numeralhq.com/partner-program\r\n        "
+    }
+  ],
+  "createdAt": "2025-07-30T16:12:46.067Z"
+}

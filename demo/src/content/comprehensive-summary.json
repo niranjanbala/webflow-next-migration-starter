@@ -1,0 +1,99 @@
+{
+  "transformedAt": "2025-07-30T16:12:46.112Z",
+  "totalPages": 23,
+  "categories": [
+    {
+      "category": "main",
+      "count": 8,
+      "samplePages": [
+        {
+          "slug": "home",
+          "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS"
+        },
+        {
+          "slug": "about",
+          "title": "About us | Numeral"
+        },
+        {
+          "slug": "careers",
+          "title": "Careers at Numeral | Join a team of builders"
+        }
+      ]
+    },
+    {
+      "category": "blog",
+      "count": 5,
+      "samplePages": [
+        {
+          "slug": "blog-alabama-sales-tax-guide",
+          "title": "Alabama Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses"
+        },
+        {
+          "slug": "blog-alaska-sales-tax-guide",
+          "title": "Alaska Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses"
+        },
+        {
+          "slug": "blog-anrok-alternatives",
+          "title": "The 6 Best Anrok Alternatives for 2025"
+        }
+      ]
+    },
+    {
+      "category": "product",
+      "count": 5,
+      "samplePages": [
+        {
+          "slug": "product-api",
+          "title": "Accurate sales tax rates with our API and engine"
+        },
+        {
+          "slug": "product-exemption-certificate-management",
+          "title": "Exemption certificate management"
+        },
+        {
+          "slug": "product-filing-and-remittance",
+          "title": "Sales tax filing & remittance"
+        }
+      ]
+    },
+    {
+      "category": "customer",
+      "count": 3,
+      "samplePages": [
+        {
+          "slug": "customers-4frnt",
+          "title": "4FRNT"
+        },
+        {
+          "slug": "customers-amberjack",
+          "title": "Amberjack"
+        },
+        {
+          "slug": "customers-boomboom",
+          "title": "BoomBoom"
+        }
+      ]
+    },
+    {
+      "category": "solution",
+      "count": 2,
+      "samplePages": [
+        {
+          "slug": "solutions-ecommerce",
+          "title": "Sales tax software for top ecommerce brands"
+        },
+        {
+          "slug": "solutions-saas",
+          "title": "Sales tax compliance for SaaS"
+        }
+      ]
+    }
+  ],
+  "sectionTypes": [
+    "hero",
+    "content",
+    "custom"
+  ],
+  "totalSections": 147,
+  "averageSectionsPerPage": 6
+}

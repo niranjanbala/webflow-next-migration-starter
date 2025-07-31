@@ -1,0 +1,28 @@
+{
+  "category": "customer",
+  "totalPages": 3,
+  "pages": [
+    {
+      "slug": "customers-4frnt",
+      "title": "4FRNT",
+      "description": "4FRNT is a skier-owned ski company known for designing innovative, high-performance gear tested on the mountain by passionate athletes.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/customers/4frnt\r\n        "
+    },
+    {
+      "slug": "customers-amberjack",
+      "title": "Amberjack",
+      "description": "As a fast-growing apparel brand, Jonathan tried using Avalara to automate sales tax compliance. But he quickly figured out that it's more trouble than it's worth.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/customers/amberjack\r\n        "
+    },
+    {
+      "slug": "customers-boomboom",
+      "title": "BoomBoom",
+      "description": "As BoomBoom expanded, the complexities of handling sales tax across numerous states began to affect John and his team. After trying out TaxJar and Avalara, they turned to Numeral's white-glove sales tax solution.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/customers/boomboom\r\n        "
+    }
+  ],
+  "createdAt": "2025-07-30T16:12:46.068Z"
+}

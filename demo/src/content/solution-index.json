@@ -1,0 +1,21 @@
+{
+  "category": "solution",
+  "totalPages": 2,
+  "pages": [
+    {
+      "slug": "solutions-ecommerce",
+      "title": "Sales tax software for top ecommerce brands",
+      "description": "Brands like Ridge and Graza spend less than five minutes per month on sales tax compliance with our white-glove solution.",
+      "sections": 7,
+      "originalUrl": "\r\n            https://www.numeralhq.com/solutions/ecommerce\r\n        "
+    },
+    {
+      "slug": "solutions-saas",
+      "title": "Sales tax compliance for SaaS",
+      "description": "One platform to support global growth and compliance. Leading SaaS brands use Numeral for end-to-end sales tax compliance.",
+      "sections": 7,
+      "originalUrl": "\r\n            https://www.numeralhq.com/solutions/saas\r\n        "
+    }
+  ],
+  "createdAt": "2025-07-30T16:12:46.068Z"
+}

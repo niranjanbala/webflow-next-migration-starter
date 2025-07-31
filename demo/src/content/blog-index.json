@@ -1,0 +1,42 @@
+{
+  "category": "blog",
+  "totalPages": 5,
+  "pages": [
+    {
+      "slug": "blog-alabama-sales-tax-guide",
+      "title": "Alabama Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+      "description": "Navigate Alabama's 2023 sales tax landscape with our comprehensive guide, covering compliance, rates, and regulations to keep your business on track.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/blog/alabama-sales-tax-guide\r\n        "
+    },
+    {
+      "slug": "blog-alaska-sales-tax-guide",
+      "title": "Alaska Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+      "description": "Alaska is the only state where the state doesn't levy a sales tax for ecommerce sellers but the local government does.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/blog/alaska-sales-tax-guide\r\n        "
+    },
+    {
+      "slug": "blog-anrok-alternatives",
+      "title": "The 6 Best Anrok Alternatives for 2025",
+      "description": "If you’re looking for an alternative to Anrok for your SaaS company, this article is for you. In it, we’ll cover everything you need to know about six of the best Anrok alternatives on the market.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/blog/anrok-alternatives\r\n        "
+    },
+    {
+      "slug": "blog-anrok-vs-taxjar",
+      "title": "Anrok vs. TaxJar: A Side-by-Side Comparison",
+      "description": "While both Anrok and TaxJar are great options, their focuses differ: Anrok primarily serves software businesses, whereas TaxJar supports a wider range of industries, including e-commerce.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/blog/anrok-vs-taxjar\r\n        "
+    },
+    {
+      "slug": "blog-arizona-sales-tax-guide",
+      "title": "Arizona Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+      "description": "A comprehensive overview of Arizona's 2023 sales tax landscape, covering compliance, rates, and regulations for businesses.",
+      "sections": 4,
+      "originalUrl": "\r\n            https://www.numeralhq.com/blog/arizona-sales-tax-guide\r\n        "
+    }
+  ],
+  "createdAt": "2025-07-30T16:12:46.068Z"
+}

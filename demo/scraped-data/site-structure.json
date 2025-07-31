@@ -1,0 +1,162 @@
+{
+  "baseUrl": "https://numeralhq.com",
+  "scrapedAt": "2025-07-30T15:56:50.642Z",
+  "pages": [
+    {
+      "url": "https://numeralhq.com",
+      "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+      "description": "We fully manage the headaches of sales tax so you can get back to real work. Get started for free today!",
+      "sections": 11,
+      "assets": 84
+    },
+    {
+      "url": "https://numeralhq.com/",
+      "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+      "description": "We fully manage the headaches of sales tax so you can get back to real work. Get started for free today!",
+      "sections": 11,
+      "assets": 84
+    },
+    {
+      "url": "https://numeralhq.com/get-started",
+      "title": "Get Started",
+      "description": "We built Numeral to be the easiest way for ecommerce entrepreneurs to handle sales tax.",
+      "sections": 4,
+      "assets": 31
+    },
+    {
+      "url": "https://numeralhq.com/pricing",
+      "title": "Pricing",
+      "description": "We built Numeral to be the easiest way for ecommerce entrepreneurs to handle sales tax.",
+      "sections": 7,
+      "assets": 50
+    },
+    {
+      "url": "https://numeralhq.com/about",
+      "title": "About us | Numeral",
+      "description": "We built Numeral to be the end-to-end platform for sales tax compliance. Let us take care of sales tax.",
+      "sections": 10,
+      "assets": 16
+    },
+    {
+      "url": "https://numeralhq.com/blog",
+      "title": "Blog — Numeral",
+      "description": "Explore our in-depth articles and resources on all aspects of sales tax, crafted by industry experts to provide you with the insights and guidance you need.",
+      "sections": 4,
+      "assets": 14
+    },
+    {
+      "url": "https://numeralhq.com/case-studies",
+      "title": "Customer Stories | Numeral",
+      "description": "Learn how Numeral helps leading ecommerce and SaaS businesses get compliant, stay compliant, and eliminate mistakes – we guarantee it.",
+      "sections": 4,
+      "assets": 14
+    },
+    {
+      "url": "https://numeralhq.com/partner-program",
+      "title": "Numeral Partner Program",
+      "description": "Not only do we guarantee sales tax compliance for your clients, but a Numeral partnership also comes with a host of benefits.",
+      "sections": 12,
+      "assets": 76
+    },
+    {
+      "url": "https://numeralhq.com/demo",
+      "title": "Book a demo — Numeral",
+      "description": "Ready to put your sales tax on autopilot? Book a free demo with our team today!",
+      "sections": 3,
+      "assets": 26
+    },
+    {
+      "url": "https://numeralhq.com/product/nexus-tracking",
+      "title": "Monitor nexus thresholds",
+      "description": "Stay compliant with changing economic nexus laws. Numeral tracks sales thresholds, sends alerts, and automates registrations—all in one simple dashboard.",
+      "sections": 8,
+      "assets": 48
+    },
+    {
+      "url": "https://numeralhq.com/product/registrations",
+      "title": "Simplify sales tax registration",
+      "description": "Register for a sales tax permit in jurisdictions where you have nexus. State-by-state registrations are easy and done for you.",
+      "sections": 8,
+      "assets": 48
+    },
+    {
+      "url": "https://numeralhq.com/product/filing-and-remittance",
+      "title": "Sales tax filing & remittance",
+      "description": "Never miss a deadline. Numeral automatically files your sales tax returns, remits, and guarantees on-time filing.",
+      "sections": 8,
+      "assets": 48
+    },
+    {
+      "url": "https://numeralhq.com/product/api",
+      "title": "Accurate sales tax rates with our API and engine",
+      "description": "Numeral’s sales tax platform delivers precise, real-time tax rates with zero latency, ensuring performance at any scale.",
+      "sections": 8,
+      "assets": 48
+    },
+    {
+      "url": "https://numeralhq.com/product/exemption-certificate-management",
+      "title": "Exemption certificate management",
+      "description": "Manage exemption certificates with Numeral. Automate compliance, reduce risk, and eliminate accidental sales tax exposure—all in one platform.",
+      "sections": 8,
+      "assets": 48
+    },
+    {
+      "url": "https://numeralhq.com/careers",
+      "title": "Careers at Numeral | Join a team of builders",
+      "description": "We are based in San Francisco. We’ve assembled a wonderful team. And we work hard to be the best place you’ve ever worked.",
+      "sections": 9,
+      "assets": 26
+    },
+    {
+      "url": "https://numeralhq.com/blog/ecommerce-sales-tax",
+      "title": "Ecommerce Sales Tax 101: An Online Seller’s Guide to 2025",
+      "description": "As your business grows and gains customers in multiple states (and countries), it also takes on new responsibilities related to complying with the tax laws where those customers are located, even if your business has no physical presence there.",
+      "sections": 4,
+      "assets": 16
+    },
+    {
+      "url": "https://numeralhq.com/blog/sales-tax-on-saas",
+      "title": "Sales Tax and SaaS: State By State Breakdown (2025)Responsive YouTube Embed",
+      "description": "Sales tax laws for SaaS are anything but consistent. While some states treat SaaS like a taxable good, others see it as a service and exempt it entirely—or add conditions that make your head spin.",
+      "sections": 4,
+      "assets": 15
+    },
+    {
+      "url": "https://numeralhq.com/avalara-alternative",
+      "title": "Avalara Alternative - Why Numeral is the Better Choice",
+      "description": "Looking for the best alternative to Avalara? Spend less than five minutes a month on sales tax with Numeral's white-glove service.",
+      "sections": 6,
+      "assets": 53
+    },
+    {
+      "url": "https://numeralhq.com/taxjar-alternative",
+      "title": "TaxJar Alternative - Why Numeral is the Better Choice",
+      "description": "Looking for the best alternative to TaxJar? Spend under five minutes a month on sales tax with Numeral's white-glove service.",
+      "sections": 6,
+      "assets": 53
+    },
+    {
+      "url": "https://numeralhq.com/reviews",
+      "title": "Numeral Sales Tax Reviews | Their Words, Not Ours",
+      "description": "Growing ecommerce and SaaS businesses trust Numeral for rates, remittance, and everything in between.",
+      "sections": 5,
+      "assets": 19
+    },
+    {
+      "url": "https://numeralhq.com/legal/terms-of-service",
+      "title": "Terms of Service",
+      "description": "",
+      "sections": 3,
+      "assets": 6
+    },
+    {
+      "url": "https://numeralhq.com/legal/privacy-policy",
+      "title": "Privacy Policy",
+      "description": "",
+      "sections": 3,
+      "assets": 6
+    }
+  ],
+  "totalSections": 146,
+  "totalAssets": 829
+}

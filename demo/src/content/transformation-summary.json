@@ -1,0 +1,231 @@
+{
+  "transformedAt": "2025-07-30T15:58:15.420Z",
+  "totalPages": 22,
+  "pages": [
+    {
+      "slug": "home",
+      "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+      "sections": 11,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "home",
+      "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+      "sections": 11,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "get-started",
+      "title": "Get Started",
+      "sections": 4,
+      "sectionTypes": [
+        "content",
+        "hero"
+      ]
+    },
+    {
+      "slug": "pricing",
+      "title": "Pricing",
+      "sections": 7,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "About us | Numeral",
+      "sections": 10,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "blog",
+      "title": "Blog — Numeral",
+      "sections": 4,
+      "sectionTypes": [
+        "hero",
+        "custom",
+        "content"
+      ]
+    },
+    {
+      "slug": "case-studies",
+      "title": "Customer Stories | Numeral",
+      "sections": 4,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "partner-program",
+      "title": "Numeral Partner Program",
+      "sections": 12,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "demo",
+      "title": "Book a demo — Numeral",
+      "sections": 3,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "product-nexus-tracking",
+      "title": "Monitor nexus thresholds",
+      "sections": 8,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "product-registrations",
+      "title": "Simplify sales tax registration",
+      "sections": 8,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "product-filing-and-remittance",
+      "title": "Sales tax filing & remittance",
+      "sections": 8,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "product-api",
+      "title": "Accurate sales tax rates with our API and engine",
+      "sections": 8,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "product-exemption-certificate-management",
+      "title": "Exemption certificate management",
+      "sections": 8,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "careers",
+      "title": "Careers at Numeral | Join a team of builders",
+      "sections": 9,
+      "sectionTypes": [
+        "hero",
+        "custom",
+        "content"
+      ]
+    },
+    {
+      "slug": "blog-ecommerce-sales-tax",
+      "title": "Ecommerce Sales Tax 101: An Online Seller’s Guide to 2025",
+      "sections": 4,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "blog-sales-tax-on-saas",
+      "title": "Sales Tax and SaaS: State By State Breakdown (2025)Responsive YouTube Embed",
+      "sections": 4,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "avalara-alternative",
+      "title": "Avalara Alternative - Why Numeral is the Better Choice",
+      "sections": 6,
+      "sectionTypes": [
+        "hero",
+        "custom",
+        "content"
+      ]
+    },
+    {
+      "slug": "taxjar-alternative",
+      "title": "TaxJar Alternative - Why Numeral is the Better Choice",
+      "sections": 6,
+      "sectionTypes": [
+        "hero",
+        "custom",
+        "content"
+      ]
+    },
+    {
+      "slug": "reviews",
+      "title": "Numeral Sales Tax Reviews | Their Words, Not Ours",
+      "sections": 5,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "legal-terms-of-service",
+      "title": "Terms of Service",
+      "sections": 3,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    },
+    {
+      "slug": "legal-privacy-policy",
+      "title": "Privacy Policy",
+      "sections": 3,
+      "sectionTypes": [
+        "hero",
+        "content",
+        "custom"
+      ]
+    }
+  ],
+  "sectionTypes": [
+    "hero",
+    "content",
+    "custom"
+  ],
+  "totalSections": 146
+}

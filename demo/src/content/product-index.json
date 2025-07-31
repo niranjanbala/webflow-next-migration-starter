@@ -1,0 +1,42 @@
+{
+  "category": "product",
+  "totalPages": 5,
+  "pages": [
+    {
+      "slug": "product-api",
+      "title": "Accurate sales tax rates with our API and engine",
+      "description": "Numeral’s sales tax platform delivers precise, real-time tax rates with zero latency, ensuring performance at any scale.",
+      "sections": 8,
+      "originalUrl": "\r\n            https://www.numeralhq.com/product/api\r\n        "
+    },
+    {
+      "slug": "product-exemption-certificate-management",
+      "title": "Exemption certificate management",
+      "description": "Manage exemption certificates with Numeral. Automate compliance, reduce risk, and eliminate accidental sales tax exposure—all in one platform.",
+      "sections": 8,
+      "originalUrl": "\r\n            https://www.numeralhq.com/product/exemption-certificate-management\r\n        "
+    },
+    {
+      "slug": "product-filing-and-remittance",
+      "title": "Sales tax filing & remittance",
+      "description": "Never miss a deadline. Numeral automatically files your sales tax returns, remits, and guarantees on-time filing.",
+      "sections": 8,
+      "originalUrl": "\r\n            https://www.numeralhq.com/product/filing-and-remittance\r\n        "
+    },
+    {
+      "slug": "product-nexus-tracking",
+      "title": "Monitor nexus thresholds",
+      "description": "Stay compliant with changing economic nexus laws. Numeral tracks sales thresholds, sends alerts, and automates registrations—all in one simple dashboard.",
+      "sections": 8,
+      "originalUrl": "\r\n            https://www.numeralhq.com/product/nexus-tracking\r\n        "
+    },
+    {
+      "slug": "product-registrations",
+      "title": "Simplify sales tax registration",
+      "description": "Register for a sales tax permit in jurisdictions where you have nexus. State-by-state registrations are easy and done for you.",
+      "sections": 8,
+      "originalUrl": "\r\n            https://www.numeralhq.com/product/registrations\r\n        "
+    }
+  ],
+  "createdAt": "2025-07-30T16:12:46.068Z"
+}

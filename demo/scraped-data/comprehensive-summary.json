@@ -1,0 +1,174 @@
+{
+  "scrapedAt": "2025-07-30T16:10:54.072Z",
+  "totalPages": 23,
+  "categories": {
+    "homepage": {
+      "count": 1,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com\r\n        ",
+          "title": "Numeral | Sales Tax on Autopilot for Ecommerce & SaaS",
+          "sections": 11,
+          "assets": 84
+        }
+      ]
+    },
+    "main-page": {
+      "count": 7,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com/about\r\n        ",
+          "title": "About us | Numeral",
+          "sections": 10,
+          "assets": 16
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/careers\r\n        ",
+          "title": "Careers at Numeral | Join a team of builders",
+          "sections": 9,
+          "assets": 26
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/case-studies\r\n        ",
+          "title": "Customer Stories | Numeral",
+          "sections": 4,
+          "assets": 14
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/pricing\r\n        ",
+          "title": "Pricing",
+          "sections": 7,
+          "assets": 50
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/demo\r\n        ",
+          "title": "Book a demo — Numeral",
+          "sections": 3,
+          "assets": 26
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/reviews\r\n        ",
+          "title": "Numeral Sales Tax Reviews | Their Words, Not Ours",
+          "sections": 5,
+          "assets": 19
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/partner-program\r\n        ",
+          "title": "Numeral Partner Program",
+          "sections": 12,
+          "assets": 76
+        }
+      ]
+    },
+    "product": {
+      "count": 5,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com/product/api\r\n        ",
+          "title": "Accurate sales tax rates with our API and engine",
+          "sections": 8,
+          "assets": 48
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/product/exemption-certificate-management\r\n        ",
+          "title": "Exemption certificate management",
+          "sections": 8,
+          "assets": 48
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/product/filing-and-remittance\r\n        ",
+          "title": "Sales tax filing & remittance",
+          "sections": 8,
+          "assets": 48
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/product/nexus-tracking\r\n        ",
+          "title": "Monitor nexus thresholds",
+          "sections": 8,
+          "assets": 48
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/product/registrations\r\n        ",
+          "title": "Simplify sales tax registration",
+          "sections": 8,
+          "assets": 48
+        }
+      ]
+    },
+    "solution": {
+      "count": 2,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com/solutions/ecommerce\r\n        ",
+          "title": "Sales tax software for top ecommerce brands",
+          "sections": 7,
+          "assets": 48
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/solutions/saas\r\n        ",
+          "title": "Sales tax compliance for SaaS",
+          "sections": 7,
+          "assets": 48
+        }
+      ]
+    },
+    "blog": {
+      "count": 5,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com/blog/alabama-sales-tax-guide\r\n        ",
+          "title": "Alabama Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+          "sections": 4,
+          "assets": 15
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/blog/alaska-sales-tax-guide\r\n        ",
+          "title": "Alaska Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+          "sections": 4,
+          "assets": 15
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/blog/anrok-alternatives\r\n        ",
+          "title": "The 6 Best Anrok Alternatives for 2025",
+          "sections": 4,
+          "assets": 22
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/blog/anrok-vs-taxjar\r\n        ",
+          "title": "Anrok vs. TaxJar: A Side-by-Side Comparison",
+          "sections": 4,
+          "assets": 18
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/blog/arizona-sales-tax-guide\r\n        ",
+          "title": "Arizona Sales Tax Guide 2024: Compliance, Rates, and Regulations for Businesses",
+          "sections": 4,
+          "assets": 15
+        }
+      ]
+    },
+    "customer-story": {
+      "count": 3,
+      "pages": [
+        {
+          "url": "\r\n            https://www.numeralhq.com/customers/4frnt\r\n        ",
+          "title": "4FRNT",
+          "sections": 4,
+          "assets": 11
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/customers/amberjack\r\n        ",
+          "title": "Amberjack",
+          "sections": 4,
+          "assets": 11
+        },
+        {
+          "url": "\r\n            https://www.numeralhq.com/customers/boomboom\r\n        ",
+          "title": "BoomBoom",
+          "sections": 4,
+          "assets": 11
+        }
+      ]
+    }
+  }
+}
